@@ -1,1 +1,0 @@
-copy /b blk*.dat bootstrap.dat
